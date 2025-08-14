@@ -1,7 +1,7 @@
 👋 Hi, I'm Singaraju Saiteja!
 
 Welcome to my GitHub profile! I'm a Aspiring AI/ML Engineer passionate about building innovative solutions and contributing to open-source projects. I love exploring new technologies and solving complex problems.
-
+---
 🔧 Skills
 
 .
@@ -21,6 +21,10 @@ Areas of Expertise: Machine Learning
 
 
 Databases: MySQL
+---
+
+
+
 
 📫 Get in Touch
 
