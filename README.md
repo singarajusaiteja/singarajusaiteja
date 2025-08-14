@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Singaraju Saiteja!
 
-<!--
-**singarajusaiteja/singarajusaiteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Aspiring AI/ML Engineer passionate about building innovative solutions and contributing to open-source projects. I love exploring new technologies and solving complex problems.
 
-Here are some ideas to get you started:
+🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.
+
+
+
+Languages: Python, SQL
+
+
+
+Frameworks & Tools: Numpy, Pandas, Matplotlib, Scikit-learn
+
+
+
+Areas of Expertise: Machine Learning
+
+
+
+Databases: MySQL
+
+📫 Get in Touch
+
+
+
+
+
+Email: saitejasingaraju@gmail.com
+
+
+
+LinkedIn: [singaraju saiteja](https://www.linkedin.com/in/singaraju-saiteja-123348219/)
+
+
+
+Twitter/X: [@SaitejaSingaraj](https://x.com/SaitejaSingaraj)
+
+
+
+
+
+
