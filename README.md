@@ -15,11 +15,11 @@ Languages: Python, SQL
 
 
 
-Frameworks & Tools: Numpy, Pandas, Matplotlib, Scikit-learn
+Frameworks & Tools: Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch
 
 
 
-Areas of Expertise: Machine Learning
+Areas of Expertise: Machine Learning, Deep learning
 
 
 
