@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Aspiring Gen AI Engineer passionate about bu
 ---
 
 
-# 🔧 Skills
+## 🔧 Skills
 
 .
 
@@ -35,7 +35,7 @@ Databases: MySQL
    - An Intern project at Viswam.ai
    - create the app to collect indic data
 
-# 📫 Get in Touch
+## 📫 Get in Touch
 
 
 
