@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a Aspiring Gen AI Engineer passionate about bu
 
 ## 🔧 Skills
 
-.
 
 
 
