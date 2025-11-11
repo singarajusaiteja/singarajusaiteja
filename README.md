@@ -29,6 +29,12 @@ Databases: MySQL
 
 ---
 
+## Projects
+
+1. [Proverb collector](https://github.com/singarajusaiteja/Proverb_collector.git)
+   - An Intern project at Viswam.ai
+   - create the app to collect indic data
+
 # 📫 Get in Touch
 
 
