@@ -34,6 +34,15 @@ Databases: MySQL
    - An Intern project at Viswam.ai
    - create the app to collect indic data
 
+2. [Repo Explainer](https://github.com/singarajusaiteja/Repo_Explainer.git)
+   - Upload any Github repo as zip file and explains it in seconds
+   - useful to understand Large codebase and unclear codebases
+   - Understands entire repos (not just one file)
+   - Explains architecture, setup, gotchas
+   - Uses **MiniMax-M2-Stable** with 200K context
+   - Official OpenAI Python SDK (just change base_url)
+   - Live streaming response
+
 ## 📫 Get in Touch
 
 
