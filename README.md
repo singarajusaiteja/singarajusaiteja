@@ -33,6 +33,8 @@ Databases: MySQL
 1. [Proverb collector](https://github.com/singarajusaiteja/Proverb_collector.git)
    - An Intern project at Viswam.ai
    - create the app to collect indic data
+   - user fills a form about Proverb data in their native language
+   - the data is then exported as csv
 
 2. [Repo Explainer](https://github.com/singarajusaiteja/Repo_Explainer.git)
    - Upload any Github repo as zip file and explains it in seconds
