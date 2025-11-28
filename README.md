@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Singaraju Saiteja!
 
-Welcome to my GitHub profile! I'm a Aspiring Gen AI Engineer passionate about building innovative solutions and contributing to open-source projects. I love exploring new technologies and solving complex problems.
+Welcome to my GitHub profile! I'm a Aspiring Flutter + AI Engineer passionate about building innovative solutions and contributing to open-source projects. I love exploring new technologies and solving complex problems.
 
 ---
 
@@ -14,11 +14,11 @@ Languages: Python, SQL
 
 
 
-Frameworks & Tools: Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch, Transformers, llamaindex, crewai
+Frameworks & Tools: Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch, Transformers, llamaindex, crewai, Flutter
 
 
 
-Areas of Expertise: Machine Learning, Deep learning
+Areas of Expertise: Machine Learning, Deep learning, Mobile app development
 
 
 
